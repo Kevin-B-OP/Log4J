@@ -1,0 +1,5 @@
+INFO  | 2019-05-06 16:58:58 | [main] opckev.Main (Main.java:12) - This will be printed on info
+WARN  | 2019-05-06 16:58:58 | [main] opckev.Main (Main.java:13) - This will be printed on warn
+ERROR | 2019-05-06 16:58:58 | [main] opckev.Main (Main.java:14) - This will be printed on error
+FATAL | 2019-05-06 16:58:58 | [main] opckev.Main (Main.java:15) - This will be printed on fatal
+INFO  | 2019-05-06 16:58:58 | [main] opckev.Main (Main.java:17) - Appending string: Hello, World.
